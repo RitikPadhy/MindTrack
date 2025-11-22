@@ -1,0 +1,3 @@
+[submodule "components/mindtrack-flutter"]
+	path = components/mindtrack-flutter
+	url = https://github.com/RitikPadhy/MindTrack---Flutter
